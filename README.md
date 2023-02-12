@@ -13,7 +13,7 @@ N/A
 
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome Devtools and tab over to 'Console'
 
-![to open the console, right click + inspect](prework-study-guide/assets/images/screenshot.png)
+![to open the console, right click + inspect](assets/images/screenshot.png)
 
 ## Credits
 
